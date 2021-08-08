@@ -87,3 +87,23 @@ abi = [
     }
   ];
 ```
+
+# Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
+
+## 1. A link to the Layer 1 address you funded on the Testnet Explorer.
+
+https://explorer.nervos.org/aggron/address/ckt1qyqyqvztuz5syu574mt34cm43dd9xu86smeqcsp0ef
+## 2. A screenshot of the console output immediately after using sudt-cli to create your SUDT tokens on Layer 1.
+
+![](pic/task_4_2.png)
+
+## 3. A link to the transaction ID created by sudt-cli on the Testnet Explorer.
+
+https://explorer.nervos.org/aggron/transaction/0xc3857f7b32106ea7a31f988807be740cdd91007395aff9c23e9d4b645bdf026a
+## 4. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
+
+![](pic/task_4_4.png)
+
+## 5. The SUDT ID from the console output after executing the deposit script (in text format).
+
+392
