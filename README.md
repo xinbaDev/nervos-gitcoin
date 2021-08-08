@@ -127,3 +127,24 @@ https://explorer.nervos.org/aggron/transaction/0xc3857f7b32106ea7a31f988807be740
 ## 4. The Ethereum address that was checked (in text format).
 
 0x467eA556fF83ae2A763F38F246bbb4f3f6e9558A
+
+# Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
+
+## 1. A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
+
+![](pic/task_6_1.png)
+
+## 2. Your Deposit Receiver Address (in text format).
+
+ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqp9252w6analwy5q0ednz2vag5t6pfe3x97f2pu6z2akzwegrt6cs6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k53n754t0lqaw9fmr7w8jg6amfulka92c5q9rqgqqqqqqcq46cweq
+
+## 3. The Ethereum address used to generate the Deposit Receiver Address (in text format).
+
+0x467eA556fF83ae2A763F38F246bbb4f3f6e9558A
+
+## 4. A link to the Etherscan explorer for the successful Force Bridge transaction. This can be found on Force Bridge under History→Succeed.
+
+https://rinkeby.etherscan.io/tx/0x8bed5aa59e046a8913157b15fe3844e5faa6e371b2d987db701e4744d835d520
+## 5. A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
+
+https://explorer.nervos.org/aggron/transaction/0xe90541523e93f6c206e8b0a70a1c794a5bb6752086baac88aaa452064b9a5cfe
