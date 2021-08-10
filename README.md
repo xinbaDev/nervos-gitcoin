@@ -323,3 +323,16 @@ transaction hash: 0x8f4872b355f393d70dddc1c01adb2c68f150ba651c43a548bb49c41bdf55
   ],
 
 ```
+
+# Gitcoin: 8) Modify The Ported DApp So It Supports Ethereum Assets Via Force Bridge
+
+## 1. A screenshot or video of your EVM application on Layer 2 with Force Bridge support.
+![](pic/task_8_1.png)
+
+## 2. The address of the SUDT-ERC20 Proxy Contract that you deployed (in text format).
+
+0xE674ae36a9242Ca285E1BBcf8e9973B4B72C0333
+
+## 3. A link to the GitHub repository with your EVM application that integrates Force Bridge support.
+
+https://github.com/xinbaDev/nervos-simple-diary/tree/gitcoin8
