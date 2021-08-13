@@ -336,3 +336,16 @@ transaction hash: 0x8f4872b355f393d70dddc1c01adb2c68f150ba651c43a548bb49c41bdf55
 ## 3. A link to the GitHub repository with your EVM application that integrates Force Bridge support.
 
 https://github.com/xinbaDev/nervos-simple-diary/tree/gitcoin8
+
+
+# Gitcoin: 9) Initiate Withdrawal Process From The Layer 2 Back To Layer 1
+
+## 1. A screenshot of the console output immediately after running the withdraw command.
+![](pic/task_9_1.png)
+## 2. The Ethereum address that you've used for your Layer 2 account (in text format).
+
+0x467ea556ff83ae2a763f38f246bbb4f3f6e9558a
+
+## 3. The Nervos Layer 1 address that you passed to withdraw command (in text format).
+
+ckt1qyqyqvztuz5syu574mt34cm43dd9xu86smeqcsp0ef
